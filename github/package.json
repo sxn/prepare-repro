@@ -1,0 +1,6 @@
+{
+  "name": "github",
+  "dependencies": {
+    "gatsby-plugin-advanced-sitemap": "TryGhost/gatsby-plugin-advanced-sitemap#master"
+  }
+}

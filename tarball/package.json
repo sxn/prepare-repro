@@ -1,0 +1,6 @@
+{
+  "name": "tarball",
+  "dependencies": {
+    "gatsby-plugin-advanced-sitemap": "https://github.com/TryGhost/gatsby-plugin-advanced-sitemap/tarball/master"
+  }
+}
